@@ -1,0 +1,104 @@
+name: unify_secret
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.1+4
+
+environment:
+  sdk: '>=3.2.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  get: ^4.6.6
+  get_storage: ^2.1.1
+  fluttertoast: ^8.2.5
+  google_fonts: ^6.2.1
+  connectivity_plus: ^5.0.2
+  auto_size_text: ^3.0.0
+  pin_code_fields: ^8.0.1
+  animated_bottom_navigation_bar: ^1.3.3
+  package_info_plus: ^6.0.0
+  intl: ^0.19.0
+  image_picker: ^1.0.7
+  url_launcher: ^6.3.0
+  iconsax: ^0.0.8 #for icon
+  filter_list: ^1.0.2
+  flutter_svg: ^2.0.10+1
+  cached_network_image: ^3.3.1
+
+  ##  for iota necessary package  ##
+  meta: ^1.11.0 # pinned by flutter SDK, do not update the package
+  uuid: ^4.3.3
+  ffi: ^2.1.2
+  flutter_rust_bridge: ^1.82.6
+  freezed_annotation: ^2.4.1
+
+  beamer: ^1.6.0
+  flutter_overlay_loader: ^2.0.0
+  font_awesome_flutter: ^10.7.0
+  path_provider: ^2.1.2
+  provider: ^6.1.2
+  shared_preferences: ^2.2.2
+
+  #local DB hive
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  #Share link
+  share_plus: ^8.0.3
+  percent_indicator: ^4.2.3
+  animated_notch_bottom_bar: ^1.0.3
+  flutter_speed_dial: ^7.0.0
+  pointycastle: ^3.9.1
+  #pem: ^2.0.5
+  encrypt: ^5.0.3
+  syncfusion_flutter_pdf: ^25.2.6
+  crypto: ^3.0.3
+  # for deep linking
+  app_links: ^6.1.1
+
+  # for related file
+  file_picker: ^8.0.5
+  open_file: ^3.5.3
+  #printing: ^5.12.0
+  pdf: ^3.10.8
+  dio: ^5.4.3+1
+  archive: ^3.6.1
+  permission_handler: ^10.2.0
+  path: ^1.8.2
+  flutter_phoenix: ^1.0.0
+  rename: ^3.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  change_app_package_name: ^1.1.0  #flutter pub run change_app_package_name:main com.new.package.name
+
+  ##  for iota necessary dev_dependencies package  ##
+  ffigen: ^9.0.1   # pinned! do not update the package
+  build_runner: ^2.4.10
+  freezed: ^2.4.7
+  #local DB
+  hive_generator: ^2.0.1
+
+#  circular_menu: ^3.0.0
+
+
+
+
+# The following section is specific to Flutter packages.
+flutter:
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/icons/
+    - assets/images/
+
+  fonts:
+    - family: Metropolis
+      fonts:
+        - asset: ./assets/fonts/metropolis/Metropolis-Regular.otf
+        - asset: ./assets/fonts/metropolis/Metropolis-Bold.otf
