@@ -22,27 +22,22 @@ Before setting up iPact locally, ensure you have:
 
 ### Installation
 
-1. Clone the repository from GitHub:
-   ```bash
-   git clone https://github.com/rubayethasan21/iPact.git
-   ```
-
-2. Navigate into the project directory:
+1. Navigate into the project directory:
    ```bash
    cd iPact
    ```
 
-3. Clean the project to remove any previous builds:
+2. Clean the project to remove any previous builds:
    ```bash
    flutter clean
    ```
 
-4. Install dependencies:
+3. Install dependencies:
    ```bash
    flutter pub get
    ```
 
-5. Run the project on a simulator or physical device:
+4. Run the project on a simulator or physical device:
    ```bash
    flutter run
    ```
