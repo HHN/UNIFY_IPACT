@@ -68,7 +68,14 @@ For additional help building this Flutter app, check out the [Flutter Developmen
 - IOTA SDK for Flutter: [IOTA SDK Flutter Guide](https://iota-for-flutter.github.io/tutorial/building-a-comprehensive-app-with-iota-sdk/building-for-android.html)
 
 
+## License
+- This project is licensed under [Apache 2.0](LICENSE). Copyright 2024 [name of the subject] , Hochschule Heilbronn.
 
+## Acknowledgments
+
+This project was developed as part of the **InduKo Project**, funded by **Stiftung Innovation in der Hochschullehre**. We also acknowledge the support from students, faculty, and contributors who have been part of this collaborative effort.
+
+For more information about the InduKo research project, visit the official website.
 
 
 
