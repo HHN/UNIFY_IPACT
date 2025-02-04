@@ -2,6 +2,14 @@
 
 iPact is a secure, privacy-focused collaboration application designed to allow users to create encrypted collaborations and share sensitive files securely. It integrates with the IOTA Shimmer testnet to ensure file immutability through immutable transactions between users.
 
+Heilbronn University is researching advanced technical tools and didactic approaches designed to foster collaboration and interaction. The primary goal is to enhance and facilitate interdisciplinary, inter-faculty, and inter-university cooperation. Through the InduKo research project, we aim to strengthen this collaboration using innovative digital tools and modern, digitally supported strategies that boost motivation and foster innovation through partnership.
+
+In many research collaborations, sensitive data is frequently exchanged between universities, research institutions and industry partners. While digital platforms, cloud storage, and online communication tools simplify this process, they often lack mechanisms to document and verify file transfers reliably. Confidentiality agreements require proof that data was exchanged and remained unaltered, yet traditional methods such as email, cloud storage, and messaging services provide no guarantee of integrity or receipt confirmation. iPact addresses these challenges by offering a secure, decentralized platform for file exchange without relying on a central authority. Using Distributed Ledger Technology (DLT), every data transaction is recorded in an immutable ledger, ensuring transparency, authenticity, and long-term verifiability. This approach eliminates vulnerabilities associated with centralized systems while maintaining user control over shared data.
+
+iPact showcases how Distributed Ledger Technology can ensure the integrity and traceability of digital file exchanges. By demonstrating a decentralized approach to documenting and verifying data transfers, it highlights how sensitive information can be securely exchanged without relying on third-party trust, offering a new perspective on secure academic collaboration.
+
+InduKo Project was funded by Stiftung Innovation in der Hochschullehre (August 2021 - July 2024).
+
 ## Features
 
 - **Secure Profile Creation**: Each user creates a unique profile tied to an IOTA wallet, with a private key securely stored using IOTA Stronghold technology.
