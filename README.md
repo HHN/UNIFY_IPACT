@@ -17,9 +17,6 @@ iPact showcases how Distributed Ledger Technology can ensure the integrity and t
 
 </p>
 
-  <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
-  [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
-
 # iPact: Secure Collaboration and File Sharing Application
 
 iPact is a secure, privacy-focused collaboration application designed to allow users to create encrypted collaborations and share sensitive files securely. It integrates with the IOTA Shimmer testnet to ensure file immutability through immutable transactions between users.
