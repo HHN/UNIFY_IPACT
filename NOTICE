@@ -1,0 +1,40 @@
+NOTICE
+
+This project, **iPACT**, was developed as part of the InduKo Project by Heilbronn University, funded by the Stiftung Innovation in der Hochschullehre (August 2021 - July 2024). The project leverages advanced technical tools and strategies to foster interdisciplinary collaboration and innovation.
+
+Copyright 2024 , Hochschule Heilbronn.
+
+This project is licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at:
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+### Dependencies
+
+This project includes software from the following libraries, licensed under their respective open-source licenses:
+
+- [intl](https://pub.dev/packages/intl): Licensed under BSD 3-Clause License.
+- [cupertino_icons](https://pub.dev/packages/cupertino_icons): Licensed under MIT License.
+- [http](https://pub.dev/packages/http): Licensed under BSD 3-Clause License.
+- [get](https://pub.dev/packages/get): Licensed under MIT License.
+- [gap](https://pub.dev/packages/gap): Licensed under MIT License.
+- [flutter_svg](https://pub.dev/packages/flutter_svg): Licensed under MIT License.
+- [overlay_support](https://pub.dev/packages/overlay_support): Licensed under Apache-2.0 License.
+- [image_picker](https://pub.dev/packages/image_picker): Licensed under Apache-2.0, BSD-3-Clause License.
+- [dotted_border](https://pub.dev/packages/dotted_border): Licensed under MIT License.
+- [http_parser](https://pub.dev/packages/http_parser): Licensed under BSD 3-Clause License.
+- [path](https://pub.dev/packages/path): Licensed under BSD 3-Clause License.
+- [path_provider](https://pub.dev/packages/path_provider): Licensed under BSD 3-Clause License.
+- [url_launcher](https://pub.dev/packages/url_launcher): Licensed under BSD 3-Clause License.
+- [file_picker](https://pub.dev/packages/file_picker): Licensed under MIT License.
+- [flutter_image_compress](https://pub.dev/packages/flutter_image_compress): Licensed under MIT License.
+- [flutter_secure_storage](https://pub.dev/packages/flutter_secure_storage): Licensed under BSD 3-Clause License.
+- [get_storage](https://pub.dev/packages/get_storage): Licensed under MIT License.
+- [loader_overlay](https://pub.dev/packages/loader_overlay): Licensed under MIT License.
+- [cached_memory_image](https://pub.dev/packages/cached_memory_image): Licensed under MIT License.
+- [socket_io_client](https://pub.dev/packages/socket_io_client): Licensed under MIT License.
+
+### Additional Notes
+
+- It supports interdisciplinary collaboration within the Heilbronn University community through features like project posting and file sharing.
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
