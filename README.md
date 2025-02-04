@@ -1,6 +1,11 @@
-# iPact: Secure Collaboration and File Sharing Application
+<p align="center">
+  <a href="https://www.hs-heilbronn.de/de/induko" target="blank"><img src="induko_image.png" width="600" alt="Induko Logo" /></a>
+</p>
 
-iPact is a secure, privacy-focused collaboration application designed to allow users to create encrypted collaborations and share sensitive files securely. It integrates with the IOTA Shimmer testnet to ensure file immutability through immutable transactions between users.
+[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
+[circleci-url]: https://circleci.com/gh/nestjs/nest
+
+<p align="center">
 
 Heilbronn University is researching advanced technical tools and didactic approaches designed to foster collaboration and interaction. The primary goal is to enhance and facilitate interdisciplinary, inter-faculty, and inter-university cooperation. Through the InduKo research project, we aim to strengthen this collaboration using innovative digital tools and modern, digitally supported strategies that boost motivation and foster innovation through partnership.
 
@@ -9,6 +14,19 @@ In many research collaborations, sensitive data is frequently exchanged between 
 iPact showcases how Distributed Ledger Technology can ensure the integrity and traceability of digital file exchanges. By demonstrating a decentralized approach to documenting and verifying data transfers, it highlights how sensitive information can be securely exchanged without relying on third-party trust, offering a new perspective on secure academic collaboration.
 
 InduKo Project was funded by Stiftung Innovation in der Hochschullehre (August 2021 - July 2024).
+
+<a href="https://www.hs-heilbronn.de/en/projekt-induko-2cab68e84c21b797" target="_blank">InduKo</a> Project was funded by  <a href="https://stiftung-hochschullehre.de/en/" target="_blank">Stiftung Innovation in der Hochschullehre</a> (August 2021 - July 2024).
+
+</p>
+
+  <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
+  [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
+
+# iPact: Secure Collaboration and File Sharing Application
+
+iPact is a secure, privacy-focused collaboration application designed to allow users to create encrypted collaborations and share sensitive files securely. It integrates with the IOTA Shimmer testnet to ensure file immutability through immutable transactions between users.
+
+
 
 ## Features
 
