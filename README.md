@@ -13,7 +13,7 @@ In many research collaborations, sensitive data is frequently exchanged between 
 
 iPact showcases how Distributed Ledger Technology can ensure the integrity and traceability of digital file exchanges. By demonstrating a decentralized approach to documenting and verifying data transfers, it highlights how sensitive information can be securely exchanged without relying on third-party trust, offering a new perspective on secure academic collaboration. Further information can be found in the PDF document linked above.
 
-iPact was developed as part of a subproject within the InduKo project (Innovation through Collaboration), <a href="https://www.hs-heilbronn.de/en/projekt-induko-2cab68e84c21b797" target="_blank">InduKo</a> which was funded by  <a href="https://stiftung-hochschullehre.de/en/" target="_blank">Stiftung Innovation in der Hochschullehre</a> (August 2021 - July 2024).
+iPact was developed as part of a subproject within the <a href="https://www.hs-heilbronn.de/en/projekt-induko-2cab68e84c21b797" target="_blank">InduKo project (Innovation through Collaboration), </a> which was funded by  <a href="https://stiftung-hochschullehre.de/en/" target="_blank">Stiftung Innovation in der Hochschullehre</a> (August 2021 - July 2024).
 
 </p>
 
