@@ -18,6 +18,8 @@ iPact was developed as part of a subproject within the <a href="https://www.hs-h
 </p>
 
 # iPact: Secure Collaboration and File Sharing Application
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHHN%2FUNIFY_IPACT.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FHHN%2FUNIFY_IPACT?ref=badge_shield)
+
 
 iPact is a secure, privacy-focused collaboration application designed to allow users to create encrypted collaborations and share sensitive files securely. It integrates with the IOTA Shimmer testnet to ensure file immutability through immutable transactions between users.
 
@@ -92,15 +94,11 @@ For additional help building this Flutter app, check out the [Flutter Developmen
 ## License
 - This project is licensed under [Apache 2.0](LICENSE). Copyright 2024 [name of the subject] , Hochschule Heilbronn.
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHHN%2FUNIFY_IPACT.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FHHN%2FUNIFY_IPACT?ref=badge_large)
+
 ## Acknowledgments
 
 This project was developed as part of the **InduKo Project**, funded by **Stiftung Innovation in der Hochschullehre**. We also acknowledge the support from students, faculty, and contributors who have been part of this collaborative effort.
 
 For more information about the InduKo research project, visit the official website.
-
-
-
-
-
-
-
