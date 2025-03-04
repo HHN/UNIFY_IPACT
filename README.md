@@ -90,7 +90,7 @@ For additional help building this Flutter app, check out the [Flutter Developmen
 
 
 ## License
-- This project is licensed under [Apache 2.0](LICENSE). Copyright 2024 [name of the subject] , Hochschule Heilbronn.
+- This project is licensed under [Apache 2.0](LICENSE). Copyright 2024 , Hochschule Heilbronn.
 
 ## Acknowledgments
 
